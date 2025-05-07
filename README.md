@@ -1,3 +1,2 @@
 # Lab 5 - Starter
-Name: Huei-Guo Chang
-Name: Aaron Chiuwei
+Names: Huei-Guo Chang and Aaron Chiuwei
